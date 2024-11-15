@@ -1,5 +1,7 @@
 My name is **Nicola Sh**..
 
+![My photo :)](Photo.png)
+
 ##### My Contacts
 [Telegram](https://t.me/nicolashirnin) and [LinkedIn](https://www.linkedin.com/in/shirnin/)
 *Discord nickname:* Nickolay (nicola-sh)
