@@ -53,6 +53,8 @@ At the moment I am developing in the frontend direction with the goal of becomin
 
 ### Code Examples
 
+Code from my project on React:
+
 ```javascript
 const App = () => {
   const location = useLocation();
@@ -105,5 +107,5 @@ function multiply(a, b){
 Complete C# Unity Game Developer 3D, online course by Udemy.com, 2019
 
 ### Languages
-- Russian(Native)
-- English(A2-B1)
+- Russian (Native)
+- English (A2-B1)
