@@ -11,7 +11,7 @@ I am a recent graduate from the Faculty of Applied Mathematics and Computer Scie
 
 At the moment I am developing in the frontend direction with the goal of becoming a full-stack developer. I like to explore and learn new things, I don't like to stand still. I like it when somewhere there is progress or design updates, new features, functions and capabilities are added. I would like to work in a stable company and be the person who automates processes and brings new ideas.
 
-#### Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
+#### Skills
 
 **Programming Languages:**
 - Python
@@ -79,29 +79,29 @@ function multiply(a, b){
 ```
 
 
-#### Work Experience (Junior Devs can list educational projects with the skills used and links to the source code)
+#### Work Experience
 
 ##### Modeling and Analysis of Hypersonic Vehicle Flight (Python)
-Development of a mathematical model of aircraft flight using Runge-Kutta mathematical method. Data analysis and visualization with Plotly, Pandas, Numpy libraries.  [GitHub Link](https://github.com/nicola-sh/Hypersonic)
+*Development of a mathematical model of aircraft flight using Runge-Kutta mathematical method. Data analysis and visualization with Plotly, Pandas, Numpy libraries.*  [GitHub Link](https://github.com/nicola-sh/Hypersonic)
 
 ##### React App (React App):
-Competitor analysis, design development in Figma. Implemented routing using React Router, data storage with Redux, working with Node.js, Webpack, MakeFile. [GitHub Link](https://github.com/nicola-sh/workout-planner)
+*Competitor analysis, design development in Figma. Implemented routing using React Router, data storage with Redux, working with Node.js, Webpack, MakeFile.* [GitHub Link](https://github.com/nicola-sh/workout-planner)
 
 ##### Microservice on Go:
-Developing a microservice and writing unit tests. [GitHub Link](https://github.com/nicola-sh/CourseProject/tree/main/Hike)
+*Developing a microservice and writing unit tests.* [GitHub Link](https://github.com/nicola-sh/CourseProject/tree/main/Hike)
 
 ##### Administration of the site on 1C-Bitrix:
-Setting up hosting and bitrix platform, integration with 1C, importing goods, setting up AliExpress Seller.
+*Setting up hosting and bitrix platform, integration with 1C, importing goods, setting up AliExpress Seller.*
 
 ##### Game development on Unity:
-Creating and publishing simple 2d games with Yandex Games SDK integration and publishing to Google Play and Yandex Games.
+*Creating and publishing simple 2d games with Yandex Games SDK integration and publishing to Google Play and Yandex Games.*
 
 ##### Design development, UI/UX in Figma:
-Designing apps, games and websites for various devices in my spare time for myself. Working with Material Design and Apple Design. Also creating my own components. Analyzing competitors and building references.
+*Designing apps, games and websites for various devices in my spare time for myself. Working with Material Design and Apple Design. Also creating my own components. Analyzing competitors and building references.*
 
-#### Education (including completed courses and training)
+#### Education
 Complete C# Unity Game Developer 3D, online course by Udemy.com, 2019
 
-#### English Language (your English proficiency level, and if you had language practice, describe it)
+#### Languages
 Russian(Native)
 English(A2-B1)
